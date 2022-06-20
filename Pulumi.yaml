@@ -1,0 +1,3 @@
+name: pulumi-github
+runtime: nodejs
+description: GitHub Management
